@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors
-grid and button, hover
+
+Game, player choice and computer choice
